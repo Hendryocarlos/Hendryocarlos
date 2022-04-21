@@ -2,7 +2,7 @@
 
 
 - 🔭 Foco em Back-end.
-- 🌱 Estudando atulamente Python.
+- 🌱 Estudando atuaLmente Python.
 - 💬 Ask me about ...
 - 📫 Email: hendryocarlos33@gmail.com
 -  ##
