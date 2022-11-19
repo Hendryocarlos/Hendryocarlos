@@ -2,7 +2,7 @@
 
 
 - 🔭 Foco em Back-end.
-- 🌱 Estudando atuaLmente Python.
+- 🌱 Estudando atuaLmente Java.
 - 👨‍💻 Engenheiro de Software (loading )
 - 📫 Email: hendryocarlos33@gmail.com
 -->
